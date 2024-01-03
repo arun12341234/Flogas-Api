@@ -1,6 +1,6 @@
 # Flogas Api
 
-***Flogas Api with this plug-in can download file from url.***
+***Flogas Api with this plug-in manage api.***
 
 
 
